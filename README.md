@@ -1,6 +1,6 @@
 # ImGUI.NET-MultiLoader-UI
 an attempt to make customized inputs with animations for Imgui using GetWindowDrawList,getIO and IsMouseHoveringRect.
-
+This project also includes easier ways to implement colors (system.drawing.colors) & linear interpolation (for animations) using extentionClass
 
 
 Libraries Used:
